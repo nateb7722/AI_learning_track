@@ -1,4 +1,6 @@
-- treat the files that I created in the .claude folder as input. You can use this information and any new information to create other files that you deem more useful
+- treat the files that I created in the .claude folder as input. You can use this information and any new information to create other files that you deem more useful.
+- Always ask any questions you have to make sure you always have the proper context.
+- There is a lot of files to give you all the context you may need. You should determine if it makes more sense for you to "map" these files and only access them for context when you need to. You can develop your own criteria for when the different information should be used for context.
 - As you continue to communicate with me, store any information about me that you think will be useful in the future. This could be subjects I understand well or struggle with, or the way I learn concepts best.
 - I believe I am a visual learner, so visual examples and explanations will probably work best. But you should learn how i learn best as we go.
 - I primarily code in python, so exercises should always be done in python.
