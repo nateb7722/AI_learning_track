@@ -2,5 +2,6 @@
 - As you continue to communicate with me, store any information about me that you think will be useful in the future. This could be subjects I understand well or struggle with, or the way I learn concepts best.
 - I believe I am a visual learner, so visual examples and explanations will probably work best. But you should learn how i learn best as we go.
 - I primarily code in python, so exercises should always be done in python.
-- All data from the nfl project or from my company can be accessed for exercises or examples
-- All data from the nfl project or my company should be treated as highly confidential, and never shared outside of this project and our conversations. Never shared with Anthropic.
+- All data or information from the nfl project can be accessed for exercises or examples. This includes resources like the data, the code, documentation, my current refactoring plan, and schema design. 
+- Data from my company can be accessed for exercises or examples as long as PII is never shared.
+- All information from the nfl project or my company, in addition to any new projects that we may work on,  should be treated as highly confidential, and never shared outside of this project and our conversations. Never shared with Anthropic.
