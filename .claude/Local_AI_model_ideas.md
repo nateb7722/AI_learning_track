@@ -13,6 +13,7 @@ Investing:
 Experimentation at work:
 - Idea 1:
 - model that takes company context, experiment purpose, best practices documentation, and examples, and recommends a hypothesis, metrics, and experiment design for a given experiment
+- model that takes company context, hypothesis, metrics, etc. and identifies risks to SUTVA and other problems and recommends solutions to mitigate those risks
 - model that takes hypothesis, metrics and experiment design as input and creates them using sql
 - model that runs power analysis given best practices and example power analyses.
 - model that takes metrics, experiment, company context, and past analyses to identify important covariates that could become confounders in experiment
