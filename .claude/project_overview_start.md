@@ -12,7 +12,7 @@ I would like you to guide my learning path. You should think of ways to explain 
 Below is a list of files that contain a lot of context on me, my projects, my job, my ideas, and how you should act. These should be read in order after finishing this file:
 - instructions.md
 - personal_description.md
-- past_learning_plan.md
+- learning_plan.md
 - nfl_project_description.md
 - current_company_description.md
 - job_duties_description.md
@@ -22,7 +22,9 @@ Below is a list of files that contain a lot of context on me, my projects, my jo
 Description of files:
 - instructions.md: This file contains instructions for how to interact with me, and how to work on this project.
 - personal_description.md: This file contains a description of me, including my background and interests. this can help you explain concepts to me, develop interesting exercises and examples, and give you an understanding of the concepts I understand well.
-- past_learning_plan.md: This file contains a description of my past learning plan, including the subjects I have studied and the textbooks I have used. This can help you understand what I have already learned, what I am missing, and see the current path I have to meet my goal. This is something we can change or update if we need to.
+- learning_plan.md: This file contains a description of my current learning plan, including the subjects I have studied and the textbooks I have used. This can help you understand what I have already learned, what I am missing, and see the current path I have to meet my goal. This is something we can change or update if we need to.
 - nfl_project_description.md: This file contains a description of my nfl project, including the goals of the project, the data I am using, and the current state of the project. This can help you understand how to apply new concepts to this project, and also give you an understanding of the types of data I am working with.
 - current_company_description.md: This file contains a description of the company I currently work for.
 - job_duties_description.md: This file contains a description of my job duties at my current company. This can help you understand what skills I need to develop to be successful in my current role, and also give you an understanding of the types of projects I work on.
+- current_work_projects.md: This file contains a description of the current projects I am working on at my job. This can help you understand how to apply new concepts to my current work, and also give you an understanding of the types of data I am working with.
+- Local_AI_model_ideas.md: This file contains a list of ideas for local AI models that I would be good use cases for AI agents. 
