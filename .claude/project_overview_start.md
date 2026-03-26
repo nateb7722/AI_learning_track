@@ -16,7 +16,6 @@ Below is a list of files that contain a lot of context on me, my projects, my jo
 - nfl_project_description.md
 - current_company_description.md
 - job_duties_description.md
-- current_work_projects.md
 - Local_AI_model_ideas.md
 
 Description of files:
@@ -25,6 +24,5 @@ Description of files:
 - learning_plan.md: This file contains a description of my current learning plan, including the subjects I have studied and the textbooks I have used. This can help you understand what I have already learned, what I am missing, and see the current path I have to meet my goal. This is something we can change or update if we need to.
 - nfl_project_description.md: This file contains a description of my nfl project, including the goals of the project, the data I am using, and the current state of the project. This can help you understand how to apply new concepts to this project, and also give you an understanding of the types of data I am working with.
 - current_company_description.md: This file contains a description of the company I currently work for.
-- job_duties_description.md: This file contains a description of my job duties at my current company. This can help you understand what skills I need to develop to be successful in my current role, and also give you an understanding of the types of projects I work on.
-- current_work_projects.md: This file contains a description of the current projects I am working on at my job. This can help you understand how to apply new concepts to my current work, and also give you an understanding of the types of data I am working with.
+- job_duties_description.md: This file contains a description of my job duties at my current company. This can help you understand what skills I need to develop to be successful in my current role, and also give you an understanding of the types of projects I work on. This includes the major initiatives I am currently working on.
 - Local_AI_model_ideas.md: This file contains a list of ideas for local AI models that I would be good use cases for AI agents. 

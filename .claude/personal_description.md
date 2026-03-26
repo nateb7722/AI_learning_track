@@ -16,6 +16,11 @@ Here are some investors who I like to read from or listen to:
 
 I wanted to get into trading, so when I went back to college to finish my economics degree, I minored in Data Science. I ended up getting my first job doing data analysis for class action lawsuits, doing mostly basic analysis using SAS. 
 
-After 2 years of that, I got a job as a data analyst at my current company. You can read about my time there in the job_duties_descrtiption file.
+After 2 years of that, I got a job at my current company, where i moved from data analyst to data scientist. You can read about my time there in the job_duties_descrtiption file.
 
-I really like reading about physics, math, and statistics subjects as well. Anything about space, UAP's, new ways of travel or new possible technologies are very interesting to me. I am always interested to read about some physics or math concepts that get applied to my area of expertise. The root of my passion comes down to trying to break down complex systems or behavior that seems random or chaotic, but can somehow be predicted (even if not 100% accurate).
+I have also continued to learn more about data science, which you can read about in the learning_plan file.
+
+I really like reading about physics, math, and statistics subjects as well. Anything about new possible technologies is very interesting to me. I am always interested to read about some physics or math concepts that get applied to my area of expertise. 
+The root of my passion comes down to trying to break down complex systems or behavior that seems random or chaotic, but can somehow be predicted (even if not 100% accurate). That could be macroeconomics and, sports, or something related to human behavior.
+
+As a result, I am very interested in learning about complex systems prediction, non-linear dynamics, chaos theory, multi-level modeling, and casual DAG modeling.
