@@ -1,6 +1,6 @@
 ---
-Status: DRAFT - awaiting Nate's confirmation/feedback
-Last updated: 2026-03-26
+Status: IN PROGRESS
+Last updated: 2026-04-05
 ---
 
 # Learning Track Plan
@@ -33,22 +33,52 @@ Last updated: 2026-03-26
 2. Best practices for context management and prompt engineering
 3. Building CLAUDE.md together as we go (learning exercise)
 
-### Phase 2 — First Agent Workflow
-4. Pick one use case from Local_AI_model_ideas.md (likely experimentation or investing)
-5. Build end-to-end: design, implement, iterate
-6. Possibly use n8n for POC, then graduate to code
+### Phase 2 — First Agent: Fitness & Macro Tracker ← CURRENT
+**Project:** Telegram bot for tracking meals/macros and workouts
+**Stack:** Python, Telegram, Claude API, SQLite, AWS EC2
+
+Build order (teach concepts before each step):
+
+4. **Database layer** — DONE (2026-04-05)
+   - Relational data modeling, normalization, foreign keys
+   - SQLite basics, schema design
+   - Learned: three-tier workout model (workouts → exercises → sets)
+
+5. **Context windows & prompt engineering** — TAUGHT (2026-04-05)
+   - What context windows are, token economics
+   - Three approaches: fixed queries vs. two-pass routing vs. tool use
+   - Decision: hybrid approach (lightweight system prompt + tool use)
+
+6. **Agent layer (agent.py)** — NEXT
+   - Concepts to teach first: tool use / function calling, system prompt
+     design, how Claude processes tool calls and results
+   - Build: Claude API integration, tool definitions, system prompt builder
+
+7. **Telegram bot (bot.py)**
+   - Concepts to teach first: webhooks vs. polling, async Python,
+     bot frameworks
+   - Build: message handling, routing to agent, response delivery
+
+8. **Onboarding flow**
+   - Concepts to teach first: state machines, conversational UX design
+   - Build: multi-step onboarding, progressive profile completion
+
+9. **AWS deployment**
+   - Concepts to teach first: EC2 basics, security groups, SSH,
+     process management, environment variables in production
+   - Build: deploy, configure, test end-to-end
+
+10. **Testing & iteration**
+    - Use it daily, identify friction, iterate
 
 ### Phase 3 — Local Models & Fine-Tuning
-7. Running open-source models locally
-8. Fine-tuning for specific use cases
-9. When and why to fine-tune vs. prompt engineering vs. RAG
+11. Running open-source models locally
+12. Fine-tuning for specific use cases
+13. When and why to fine-tune vs. prompt engineering vs. RAG
 
 ## Session Format
 - Flexible: Nate picks the focus based on what he feels like that day
 - Stats sessions: Nate reads, then we review + build visual examples together
-- AI sessions: Hands-on building, quick wins, immediate workflow improvements
+- AI sessions: Teach concepts first, then build together
 - Questions welcome anytime, including mid-chapter
-
-## Next Session Starting Point
-- **Stats track**: Begin reviewing Gelman & Hill Chapter 1-2 (wherever Nate is)
-- **AI track**: Claude Code MCP overview if Nate wants a change of pace
+- PRIMARY GOAL: learning. SECONDARY GOAL: building.

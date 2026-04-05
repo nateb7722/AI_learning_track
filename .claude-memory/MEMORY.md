@@ -1,6 +1,8 @@
 - [Nate Profile](user_profile.md) — DS with 7yr exp, visual learner, interests in Bayesian/causal/complex systems, macro investing, NFL betting
 - [Knowledge Level](user_knowledge_level.md) — Books read, current study (Gelman & Hill), planned reading list, applied work experience
-- [Interaction Style](feedback_interaction_style.md) — Visual learner, explain->visualize->confirm->apply workflow, Python only, keep engaged
+- [Interaction Style](feedback_interaction_style.md) — Visual learner, explain->visualize->confirm->apply workflow, Python only, teach-first
+- [Teach First](feedback_teach_first.md) — Proactively identify and teach new concepts BEFORE writing code, don't skip to implementation
 - [Session Preferences](project_session_preferences.md) — Flexible cadence, read-then-review, stats & AI in parallel, adaptive not rigid
 - [CLAUDE.md Co-creation](feedback_claudemd.md) — Build CLAUDE.md incrementally together, explain each addition as a learning exercise
 - [Git Preferences](feedback_git.md) — No Co-Authored-By lines in commit messages
+- [Fitness Tracker Project](project_fitness_tracker.md) — First AI agent: Telegram bot, Claude API, AWS EC2, SQLite, multi-user macro/workout tracking
