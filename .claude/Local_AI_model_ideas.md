@@ -28,6 +28,7 @@ This file contains a list of ideas for AI agent models that I would be good use 
   - This could pair well with the scheduler. I am thinking something that keeps track of to-do's, takes notes in meetings for me, and helps prepare any documents, slack responses, etc. could be useful.
 - Jr employee
   - This is vague, but anything from my workload that could be done via agents and just confirmed / monitored by me would be helpful.
+  - This could also be the development of skills for agents to handle most of the work for common projects I do like strategic analyses, power analyses, or similar work.
 - Food & lifting tracker and recipe recommender
   - I care about fitness, and tracking all of my macros can be difficult to do throughout the day, as well as tracking all of my workouts. Something that can help me keep track of how much protein, carbs, fats, and calories I need at a given point in the day would be helpful. If it could also recommend recipes based on what i have in the fridge, how much time i have to prep, or whether i am pre or post workout would all be helpful. I also need help tracking the workouts i have done over the last week or two and preparing my workout for that day
 - personal accountant and financial adviser
