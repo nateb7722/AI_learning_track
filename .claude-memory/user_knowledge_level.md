@@ -2,8 +2,8 @@
 name: Nate - Current Knowledge Level
 description: What Nate has studied and where gaps may exist - used to calibrate teaching depth and avoid re-explaining known concepts
 type: user
+originSessionId: 91a509f3-78f3-42f2-a08f-3f5d1265038b
 ---
-
 **College**: Macro, banking, econometrics, data analysis & regression, ML models (PCA, CCA, K-Means, regressions, decision trees).
 
 **Books read**:
@@ -17,7 +17,7 @@ type: user
 - Intro to Statistics with Python
 - Causality (Judea Pearl) - first quarter only
 
-**Currently reading**: Data Analysis Using Regression and Multilevel/Hierarchical Models (Gelman & Hill) - just starting
+**Currently reading**: Data Analysis Using Regression and Multilevel/Hierarchical Models (Gelman & Hill) — on Ch 3 (Linear regression: the basics) as of 2026-05-07
 
 **Planned/unread**:
 - Statistical Rethinking
